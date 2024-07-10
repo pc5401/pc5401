@@ -1,4 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Keep%20Coding%20and%20Carry%20On&fontSize=40)
 ## Hi there 👋
+Thank you for visiting my profile.
+
+I'm Choi Myeonggwon, a passionate Full-Stack Web Developer from Korea. I believe in the motto **"Keep Coding and Carry On,"** which means staying persistent and resilient in the face of challenges. Here you'll find a collection of my projects, contributions, and interests in the world of web development.
+
+Feel free to explore my repositories.
+
 
 <!--
 **pc5401/pc5401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
